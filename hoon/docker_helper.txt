@@ -1,0 +1,9 @@
+docker ps -a
+docker images
+docker commit {CONTAINTER_NAME} {IMAGE_NAME}  // docker commit
+docker exec -it {CONTAINER_ID or NAME} /bin/bash   // docker exec
+docker run ,,,,,,,,                                // docker run (first) . ==> .sh script
+
+
+docker pull junhahn11/opencv:4.7.4                    // image pull
+docker image tag junhahn11/opencv:4.7.4 opencv:4.7.4  // tag name change
