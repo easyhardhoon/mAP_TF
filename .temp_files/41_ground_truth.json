@@ -1,0 +1,1 @@
+[{"class_name": "train", "bbox": "326.03 316.36 161.88 163.82", "used": false}, {"class_name": "person", "bbox": "463.44 337.0 28.28 55.58", "used": false}, {"class_name": "suitcase", "bbox": "451.36 347.24 10.44 18.11", "used": false}, {"class_name": "handbag", "bbox": "450.93 346.98 11.07 17.05", "used": false}]

@@ -1,0 +1,1 @@
+[{"class_name": "car", "bbox": "528.67 250.55 206.59 93.33", "used": false}, {"class_name": "traffic_light", "bbox": "526.83 183.77 13.07 40.22", "used": false}, {"class_name": "truck", "bbox": "152.25 212.75 211.2 132.58", "used": false}, {"class_name": "tie", "bbox": "273.62 198.31 3.75 4.35", "used": false}]
