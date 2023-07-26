@@ -1,16 +1,5 @@
-knife 139 278 213 391
-knife 262 206 335 275
-cake 10 169 175 356
-wine glass 149 51 189 195
-wine glass 90 26 130 164
-wine glass 30 16 73 157
-wine glass 59 85 102 166
-wine glass 106 66 151 171
-wine glass 74 14 108 90
-wine glass 0 68 32 129
-wine glass 33 58 71 150
-wine glass 154 47 194 174
-cup 2 115 41 209
-cup 319 162 361 227
-dining table 1 32 416 411
-knife 140 302 265 411
+dog 125 292 152 339
+motorbike 35 13 416 416
+bicycle 153 105 200 172
+bicycle 151 165 193 222
+truck 276 150 360 244

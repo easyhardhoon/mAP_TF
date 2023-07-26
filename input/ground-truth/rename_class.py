@@ -17,11 +17,11 @@ word_map = {
     "cell_phone": "cell_phone",
     "teddy_bear": "teddy_bear",
     "hair_drier": "hair_drier",
-    "motorbike": "motorbike", #
+    "motorbike": "motorbike", #m o t o r c y c l e
     "person": "person",
     "bicycle": "bicycle",
     "car": "car",
-    "aeroplane": "aeroplane", #
+    "aeroplane": "aeroplane", #a i r p l a n e
     "bus": "bus",
     "train": "train",
     "truck": "truck",
@@ -56,10 +56,10 @@ word_map = {
     "donut": "donut",
     "cake": "cake",
     "chair": "chair",
-    "sofa": "sofa", #
+    "sofa": "sofa", #c o u c h
     "bed": "bed",
     "toilet": "toilet",
-    "tvmonitor": "tvmonitormonitor",  #
+    "tvmonitor": "tvmonitormonitor",  #t v
     "laptop": "laptop",
     "mouse": "mouse",
     "remote": "remote",
@@ -75,7 +75,6 @@ word_map = {
     "scissors": "scissors",
     "toothbrush": "toothbrush"
 }
-
 
 
 def replace_words_in_file(file_path, word_map):

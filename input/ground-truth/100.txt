@@ -1,0 +1,6 @@
+tvmonitormonitor 99 7 290 183
+tvmonitormonitor 102 12 287 182
+cat 172 99 220 232
+teddy_bear 135 128 168 187
+teddy_bear 227 150 247 185
+teddy_bear 248 146 269 183

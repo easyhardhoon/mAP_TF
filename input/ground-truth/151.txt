@@ -1,0 +1,5 @@
+cat 142 127 272 271
+bed 0 0 416 411
+teddy_bear 244 110 345 211
+teddy_bear 91 76 265 173
+teddy_bear 56 120 188 330

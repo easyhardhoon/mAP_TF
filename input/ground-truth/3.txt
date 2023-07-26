@@ -1,7 +1,4 @@
-traffic light 37 83 51 143
-traffic light 106 103 121 141
-traffic light 327 224 336 235
-traffic light 321 173 334 214
-car 70 277 79 284
-car 0 272 18 295
-traffic light 315 223 321 239
+cat 159 124 306 281
+bottle 95 33 103 76
+car 59 31 416 415
+bicycle 320 0 413 60

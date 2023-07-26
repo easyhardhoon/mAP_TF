@@ -1,3 +1,6 @@
-sports ball 206 92 224 104
-tennis racket 112 124 176 172
-person 95 129 258 374
+cat 203 158 397 313
+sofa 116 165 415 415
+laptop 5 149 192 358
+person 1 4 416 411
+sofa 1 140 55 352
+refrigerator 62 1 133 213

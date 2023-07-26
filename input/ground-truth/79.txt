@@ -1,2 +1,5 @@
-motorcycle 116 102 384 317
-person 88 75 320 197
+dog 0 175 206 280
+dog 1 142 210 383
+handbag 284 219 385 392
+person 0 1 61 220
+person 75 10 359 363

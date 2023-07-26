@@ -1,6 +1,1 @@
-cat 203 158 397 313
-couch 116 165 415 415
-laptop 5 149 192 358
-person 1 4 416 411
-couch 1 140 55 352
-refrigerator 62 1 133 213
+cat 118 136 348 305

@@ -1,2 +1,1 @@
-traffic light 27 148 35 165
-stop sign 236 198 243 211
+dog 12 47 416 415

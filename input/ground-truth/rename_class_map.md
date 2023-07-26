@@ -1,24 +1,24 @@
 word_map = {
-    "fire hydrant": "fire_hydrant", 
-    "traffic light": "traffic_light", 
-    "stop sign": "stop_sign", 
-    "parking meter": "parking_meter", 
-    "sports ball": "sports_ball", 
-    "baseball bat": "baseball_bat", 
-    "baseball glove": "baseball_glove",
-    "tennis racket": "tennis_racket",
-    "wine glass": "wine_glass",
-    "hot dog": "hot_dog",
-    "potted plant": "potted_plant",
-    "dining table": "dining_table",
-    "cell phone": "cell_phone",
-    "teddy bear": "teddy_bear",
-    "hair drier": "hair_drier",
-    "motorcycle": "motorbike", #
+    "fire_hydrant": "fire_hydrant", 
+    "traffic_light": "traffic_light", 
+    "stop_sign": "stop_sign", 
+    "parking_meter": "parking_meter", 
+    "sports_ball": "sports_ball", 
+    "baseball_bat": "baseball_bat", 
+    "baseball_glove": "baseball_glove",
+    "tennis_racket": "tennis_racket",
+    "wine_glass": "wine_glass",
+    "hot_dog": "hot_dog",
+    "potted_plant": "potted_plant",
+    "dining_table": "dining_table",
+    "cell_phone": "cell_phone",
+    "teddy_bear": "teddy_bear",
+    "hair_drier": "hair_drier",
+    "motorbike": "motorbike", #
     "person": "person",
     "bicycle": "bicycle",
     "car": "car",
-    "airplane": "aeroplane", #
+    "aeroplane": "aeroplane", #
     "bus": "bus",
     "train": "train",
     "truck": "truck",
@@ -53,10 +53,10 @@ word_map = {
     "donut": "donut",
     "cake": "cake",
     "chair": "chair",
-    "couch": "sofa", #
+    "sofa": "sofa", #
     "bed": "bed",
     "toilet": "toilet",
-    "tv": "tvmonitor",  #
+    "tvmonitormonitormonitor": "tvmonitormonitormonitormonitor",  #
     "laptop": "laptop",
     "mouse": "mouse",
     "remote": "remote",
