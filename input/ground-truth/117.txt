@@ -1,3 +1,6 @@
-tvmonitormonitor 112 221 353 410
-cat 134 150 333 235
-cell_phone 19 234 36 292
+sports ball 85 354 97 375
+sports ball 343 325 351 340
+person 38 26 144 411
+person 217 1 367 410
+tennis racket 236 173 384 339
+tennis racket 48 337 62 415

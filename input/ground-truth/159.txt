@@ -1,5 +1,7 @@
-cat 190 212 361 409
-person 0 160 362 410
-bed 0 144 416 409
-cell_phone 334 362 364 409
-remote 333 361 364 411
+sports ball 368 114 374 122
+person 141 170 274 388
+person 38 93 148 405
+person 319 148 374 262
+baseball bat 34 21 110 108
+person 44 59 117 176
+baseball glove 318 187 336 205

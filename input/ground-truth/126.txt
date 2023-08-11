@@ -1,3 +1,5 @@
-dog 108 85 259 252
-sofa 245 5 415 217
-person 0 89 75 183
+bowl 0 0 416 415
+broccoli 185 135 301 212
+broccoli 192 189 321 284
+broccoli 118 190 225 267
+broccoli 80 188 100 207

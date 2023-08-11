@@ -1,3 +1,5 @@
-cat 88 3 416 348
-keyboard 0 343 416 416
-book 304 0 416 57
+bottle 30 0 134 113
+sandwich 73 77 324 271
+sandwich 2 172 244 376
+sandwich 275 47 386 161
+dining table 0 24 416 410

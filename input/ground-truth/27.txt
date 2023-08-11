@@ -1,3 +1,2 @@
-tvmonitormonitor 32 51 370 359
-cat 72 98 259 411
-bowl 280 238 320 258
+person 118 102 214 335
+surfboard 90 309 173 339

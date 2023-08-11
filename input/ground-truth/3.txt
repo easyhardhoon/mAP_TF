@@ -1,4 +1,32 @@
-cat 159 124 306 281
-bottle 95 33 103 76
-car 59 31 416 415
-bicycle 320 0 413 60
+knife 214 285 328 401
+knife 403 211 416 283
+cake 16 173 269 366
+wine glass 230 52 291 201
+wine glass 138 27 200 169
+wine glass 46 17 113 161
+wine glass 91 87 157 171
+wine glass 163 68 233 176
+wine glass 113 15 166 92
+wine glass 0 69 50 133
+wine glass 50 60 110 154
+wine glass 237 48 300 178
+cup 3 118 63 214
+cup 490 166 416 233
+dining table 1 33 416 416
+knife 216 310 408 416
+knife 214 285 328 401
+knife 403 211 416 283
+cake 16 173 269 366
+wine glass 230 52 291 201
+wine glass 138 27 200 169
+wine glass 46 17 113 161
+wine glass 91 87 157 171
+wine glass 163 68 233 176
+wine glass 113 15 166 92
+wine glass 0 69 50 133
+wine glass 50 60 110 154
+wine glass 237 48 300 178
+cup 3 118 63 214
+cup 490 166 416 233
+dining table 1 33 416 416
+knife 216 310 408 416

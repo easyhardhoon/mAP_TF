@@ -1,6 +1,5 @@
-tvmonitormonitor 99 7 290 183
-tvmonitormonitor 102 12 287 182
-cat 172 99 220 232
-teddy_bear 135 128 168 187
-teddy_bear 227 150 247 185
-teddy_bear 248 146 269 183
+cup 179 0 237 51
+fork 270 1 367 109
+knife 307 15 341 100
+spoon 157 7 181 24
+pizza 0 0 69 22

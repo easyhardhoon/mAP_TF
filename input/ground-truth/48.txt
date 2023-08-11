@@ -1,3 +1,4 @@
-dog 2 0 392 294
-bottle 202 175 416 416
-bottle 0 144 62 263
+chair 261 25 317 112
+chair 61 39 142 232
+fire hydrant 171 117 239 333
+dining table 108 43 206 236

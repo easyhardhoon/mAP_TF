@@ -1,2 +1,4 @@
-cat 1 1 416 387
-keyboard 0 205 116 280
+dining table 0 0 415 416
+carrot 127 43 222 198
+spoon 104 165 247 358
+sandwich 220 61 389 366

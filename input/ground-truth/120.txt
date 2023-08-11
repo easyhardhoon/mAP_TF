@@ -1,3 +1,9 @@
-cat 14 89 412 393
-keyboard 0 255 263 409
-tvmonitormonitor 1 1 219 212
+person 4 94 181 360
+bottle 2 277 32 368
+bottle 247 148 267 190
+bottle 224 159 245 188
+clock 318 0 415 54
+bottle 27 275 117 358
+bottle 190 153 207 187
+bottle 262 151 279 172
+oven 168 274 416 411

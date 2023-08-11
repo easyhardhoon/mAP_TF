@@ -1,2 +1,6 @@
-dog 79 118 389 395
-bed 2 105 415 409
+broccoli 272 41 356 201
+broccoli 248 9 313 69
+broccoli 156 115 234 246
+broccoli 43 56 77 111
+carrot 175 296 223 322
+broccoli 310 223 350 294

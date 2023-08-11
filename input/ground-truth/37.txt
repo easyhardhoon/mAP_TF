@@ -1,2 +1,5 @@
-tvmonitormonitor 34 76 364 362
-cat 51 145 299 411
+person 2 85 195 414
+book 248 312 322 383
+hot dog 102 69 416 384
+chair 1 85 68 166
+chair 91 59 209 114

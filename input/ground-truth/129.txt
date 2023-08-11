@@ -1,6 +1,10 @@
-cat 4 20 287 293
-person 2 37 243 171
-book 299 85 416 199
-book 323 189 416 360
-dog 0 27 284 291
-suitcase 0 45 347 410
+sports ball 337 172 354 193
+person 334 42 415 227
+person 11 59 254 408
+person 1 73 80 264
+baseball bat 222 168 292 215
+baseball glove 289 95 319 126
+car 2 4 253 78
+bench 149 93 386 228
+umbrella 14 25 102 112
+person 236 1 318 238

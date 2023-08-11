@@ -1,8 +1,6 @@
-dog 0 56 391 312
-person 214 1 336 148
-person 310 21 416 153
-skateboard 1 223 416 338
-book 303 36 352 63
-person 339 5 416 141
-person 382 23 415 72
-bench 312 94 362 147
+chair 331 56 405 111
+chair 374 94 401 112
+person 146 132 351 398
+person 230 10 336 134
+tennis racket 64 97 151 162
+person 209 0 285 115

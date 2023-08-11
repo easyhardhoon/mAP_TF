@@ -1,9 +1,9 @@
-dog 192 259 269 343
-potted_plant 299 127 389 260
-chair 231 122 316 249
-sports_ball 132 294 139 304
-sports_ball 139 323 147 332
-bottle 291 385 304 415
-bottle 329 365 343 405
-bed 191 246 275 368
-vase 356 204 371 231
+person 300 178 336 271
+tennis racket 332 170 348 181
+tennis racket 85 201 104 220
+tennis racket 81 216 113 239
+backpack 14 312 44 343
+bottle 42 314 50 345
+person 33 156 66 256
+person 55 148 84 309
+sports ball 380 146 387 152

@@ -1,2 +1,4 @@
-cat 55 298 143 363
-potted_plant 247 278 293 364
+dining table 1 0 416 416
+remote 250 0 321 33
+donut 213 80 274 269
+donut 6 273 89 382

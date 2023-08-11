@@ -1,2 +1,6 @@
-dog 1 145 158 409
-oven 150 0 416 416
+bottle 163 0 226 185
+bottle 236 1 304 207
+bottle 1 1 64 244
+dining table 2 139 416 412
+pizza 44 225 358 391
+bottle 54 0 119 207

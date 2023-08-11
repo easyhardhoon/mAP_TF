@@ -1,5 +1,3 @@
-dog 12 84 226 398
-tvmonitormonitor 203 0 343 78
-person 0 154 371 411
-sofa 89 280 416 411
-dining_table 0 57 52 203
+skis 88 267 267 411
+person 0 33 212 416
+skis 166 357 416 415

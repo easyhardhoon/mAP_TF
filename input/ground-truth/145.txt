@@ -1,2 +1,13 @@
-cat 22 0 416 394
-bed 0 1 416 409
+bottle 229 13 286 301
+bottle 127 21 167 210
+dining table 1 27 414 416
+wine glass 172 134 240 370
+wine glass 296 221 374 416
+wine glass 71 53 132 252
+fork 283 369 364 411
+fork 285 396 308 416
+spoon 44 404 92 415
+bowl 0 171 23 241
+bowl 352 262 415 373
+potted plant 188 0 352 184
+vase 207 77 321 180

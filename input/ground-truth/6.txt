@@ -1,3 +1,10 @@
-cat 21 17 314 393
-mouse 95 291 159 395
-sofa 0 1 416 416
+person 58 34 84 170
+person 90 28 123 154
+person 23 39 55 170
+bench 24 203 204 372
+handbag 186 312 258 388
+handbag 291 233 335 326
+motorbike 314 45 344 90
+handbag 15 85 31 133
+handbag 58 70 65 93
+person 0 46 40 192

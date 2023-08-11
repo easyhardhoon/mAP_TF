@@ -1,2 +1,6 @@
-dog 130 38 385 353
-bottle 96 280 134 387
+cell phone 167 142 194 171
+person 89 116 296 375
+suitcase 0 229 74 415
+suitcase 344 255 414 409
+handbag 71 292 143 360
+chair 123 200 326 416

@@ -1,3 +1,6 @@
-cat 146 82 345 395
-bed 136 74 416 415
-laptop 0 2 188 411
+person 141 75 292 321
+skateboard 161 310 222 322
+person 357 9 376 45
+backpack 402 79 414 98
+skateboard 314 17 329 26
+person 323 0 344 37

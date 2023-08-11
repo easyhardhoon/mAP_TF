@@ -1,3 +1,8 @@
-dog 160 76 405 316
-bed 1 7 415 404
-laptop 1 103 328 388
+fork 262 0 416 226
+bowl 24 60 404 405
+broccoli 61 231 119 277
+broccoli 147 296 177 337
+broccoli 291 220 328 253
+broccoli 233 306 260 347
+broccoli 255 292 283 338
+dining table 0 0 416 416
