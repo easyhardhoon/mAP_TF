@@ -1,0 +1,4 @@
+tvmonitormonitor 275 153 356 218
+cat 56 189 90 226
+sofa 34 175 274 377
+chair 35 247 189 380

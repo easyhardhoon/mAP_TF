@@ -56,7 +56,7 @@ word_map = {
     "sofa": "sofa", #
     "bed": "bed",
     "toilet": "toilet",
-    "tvmonitormonitormonitor": "tvmonitormonitormonitormonitor",  #
+    "tvmonitormonitormonitormonitormonitor": "tvmonitormonitormonitormonitormonitormonitor",  #
     "laptop": "laptop",
     "mouse": "mouse",
     "remote": "remote",

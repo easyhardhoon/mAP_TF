@@ -1,0 +1,6 @@
+cat 133 4 371 348
+tvmonitormonitor 188 3 395 129
+cup 63 99 94 158
+keyboard 63 258 415 410
+scissors 47 6 85 67
+cell_phone 128 63 176 160

@@ -1,0 +1,8 @@
+tvmonitormonitor 345 0 415 132
+cat 169 216 360 388
+truck 153 83 258 106
+person 243 123 308 228
+chair 0 224 416 416
+remote 335 263 364 274
+sofa 0 95 130 336
+sofa 0 237 416 410

@@ -1,0 +1,3 @@
+tvmonitormonitor 32 51 370 359
+cat 72 98 259 411
+bowl 280 238 320 258

@@ -1,0 +1,9 @@
+tvmonitormonitor 3 0 242 272
+tvmonitormonitor 233 1 350 214
+mouse 315 312 365 356
+keyboard 65 316 314 410
+person 162 162 173 178
+person 135 82 169 121
+person 196 79 206 96
+cat 194 227 219 266
+carrot 46 85 64 102
