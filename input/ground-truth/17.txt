@@ -1,6 +1,5 @@
-person 141 75 292 321
-skateboard 161 310 222 322
-person 357 9 376 45
-backpack 402 79 414 98
-skateboard 314 17 329 26
-person 323 0 344 37
+parking_meter 146 73 191 155
+person 118 156 374 258
+bench 37 152 390 329
+backpack 53 182 151 231
+car 0 170 13 223

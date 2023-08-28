@@ -1,10 +1,4 @@
-sports ball 337 172 354 193
-person 334 42 415 227
-person 11 59 254 408
-person 1 73 80 264
-baseball bat 222 168 292 215
-baseball glove 289 95 319 126
-car 2 4 253 78
-bench 149 93 386 228
-umbrella 14 25 102 112
-person 236 1 318 238
+person 167 196 198 304
+person 250 198 273 310
+surfboard 214 229 312 263
+surfboard 191 228 208 269

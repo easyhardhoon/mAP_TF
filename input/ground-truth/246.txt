@@ -1,0 +1,8 @@
+person 0 55 195 416
+person 260 84 393 411
+wine_glass 129 161 215 296
+wine_glass 230 154 285 258
+wine_glass 369 170 401 263
+person 140 64 272 410
+handbag 139 355 182 411
+person 362 112 415 227

@@ -1,2 +1,7 @@
-person 142 1 271 352
-skis 168 321 274 416
+person 0 92 61 272
+person 346 149 410 323
+person 308 0 343 40
+person 393 317 416 416
+baseball_bat 376 258 392 323
+baseball_glove 260 170 265 181
+person 196 136 264 307

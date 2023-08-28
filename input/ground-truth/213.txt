@@ -1,0 +1,9 @@
+cell_phone 250 148 273 187
+person 67 64 173 388
+person 200 34 389 410
+person 148 92 187 271
+apple 70 252 200 416
+handbag 173 179 248 416
+handbag 332 177 348 318
+suitcase 12 351 67 416
+bicycle 383 193 415 274

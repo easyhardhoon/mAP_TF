@@ -1,6 +1,2 @@
-cell phone 167 142 194 171
-person 89 116 296 375
-suitcase 0 229 74 415
-suitcase 344 255 414 409
-handbag 71 292 143 360
-chair 123 200 326 416
+person 82 53 321 264
+skateboard 189 257 242 295

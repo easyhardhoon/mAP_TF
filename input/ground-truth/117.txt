@@ -1,6 +1,8 @@
-sports ball 85 354 97 375
-sports ball 343 325 351 340
-person 38 26 144 411
-person 217 1 367 410
-tennis racket 236 173 384 339
-tennis racket 48 337 62 415
+horse 30 194 171 339
+car 375 184 416 298
+person 211 136 258 239
+person 304 171 335 208
+person 285 195 320 268
+person 325 182 357 264
+person 0 238 10 258
+bench 33 238 74 281

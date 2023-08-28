@@ -1,2 +1,9 @@
-person 1 168 114 326
-toilet 112 0 306 312
+car 1 125 122 244
+car 203 104 275 152
+car 2 111 108 157
+traffic_light 225 58 238 67
+person 104 75 226 312
+traffic_light 0 58 12 96
+car 345 74 416 153
+skateboard 137 304 202 322
+traffic_light 305 10 336 33

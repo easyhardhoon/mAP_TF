@@ -1,5 +1,0 @@
-dog 12 84 226 398
-tvmonitormonitor 203 0 343 78
-person 0 154 371 411
-sofa 89 280 416 411
-dining_table 0 57 52 203

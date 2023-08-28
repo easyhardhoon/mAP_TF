@@ -1,4 +1,1 @@
-person 246 130 261 162
-surfboard 165 192 192 210
-surfboard 256 160 268 166
-person 145 142 171 181
+sheep 144 54 298 315

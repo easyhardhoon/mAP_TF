@@ -1,2 +1,2 @@
-person 56 0 370 369
-skateboard 171 293 310 415
+stop_sign 160 0 222 83
+truck 393 248 415 298

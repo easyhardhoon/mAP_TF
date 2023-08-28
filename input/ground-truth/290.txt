@@ -1,0 +1,15 @@
+bird 135 184 193 273
+car 243 127 319 182
+car 54 157 86 191
+truck 1 0 94 308
+traffic_light 90 51 96 75
+traffic_light 241 9 252 20
+traffic_light 266 3 278 13
+parking_meter 158 246 198 396
+car 197 75 205 83
+traffic_light 310 70 318 86
+fire_hydrant 332 115 335 125
+fire_hydrant 328 114 339 137
+car 338 129 416 197
+car 186 192 416 414
+car 405 158 416 193

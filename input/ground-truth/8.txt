@@ -1,7 +1,4 @@
-person 100 226 135 315
-surfboard 99 348 208 409
-kite 148 59 156 86
-kite 57 41 77 83
-kite 300 31 315 55
-kite 293 133 298 144
-kite 391 132 396 148
+knife 323 130 416 184
+dining_table 0 0 416 416
+sandwich 150 43 299 142
+sandwich 61 91 325 321

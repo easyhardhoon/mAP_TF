@@ -1,2 +1,9 @@
-laptop 42 48 338 296
-mouse 292 270 404 347
+train 2 152 373 331
+traffic_light 62 1 88 62
+traffic_light 201 1 225 57
+traffic_light 262 1 292 95
+traffic_light 206 52 222 77
+traffic_light 314 4 334 40
+traffic_light 162 0 190 81
+traffic_light 137 160 143 174
+traffic_light 322 49 332 65

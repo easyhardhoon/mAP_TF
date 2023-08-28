@@ -1,32 +1,16 @@
-knife 214 285 328 401
-knife 403 211 416 283
-cake 16 173 269 366
-wine glass 230 52 291 201
-wine glass 138 27 200 169
-wine glass 46 17 113 161
-wine glass 91 87 157 171
-wine glass 163 68 233 176
-wine glass 113 15 166 92
-wine glass 0 69 50 133
-wine glass 50 60 110 154
-wine glass 237 48 300 178
-cup 3 118 63 214
-cup 490 166 416 233
-dining table 1 33 416 416
-knife 216 310 408 416
-knife 214 285 328 401
-knife 403 211 416 283
-cake 16 173 269 366
-wine glass 230 52 291 201
-wine glass 138 27 200 169
-wine glass 46 17 113 161
-wine glass 91 87 157 171
-wine glass 163 68 233 176
-wine glass 113 15 166 92
-wine glass 0 69 50 133
-wine glass 50 60 110 154
-wine glass 237 48 300 178
-cup 3 118 63 214
-cup 490 166 416 233
-dining table 1 33 416 416
-knife 216 310 408 416
+knife 139 278 213 391
+knife 262 206 335 275
+cake 10 169 175 356
+wine_glass 149 51 189 195
+wine_glass 90 26 130 164
+wine_glass 30 16 73 157
+wine_glass 59 85 102 166
+wine_glass 106 66 151 171
+wine_glass 74 14 108 90
+wine_glass 0 68 32 129
+wine_glass 33 58 71 150
+wine_glass 154 47 194 174
+cup 2 115 41 209
+cup 319 162 361 227
+dining_table 1 32 416 411
+knife 140 302 265 411

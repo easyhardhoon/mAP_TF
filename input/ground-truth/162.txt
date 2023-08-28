@@ -1,11 +1,1 @@
-baseball bat 379 195 416 208
-baseball glove 247 221 265 249
-person 304 153 382 301
-person 391 124 416 246
-person 357 121 379 243
-person 162 128 200 262
-person 81 114 118 221
-baseball bat 77 182 82 246
-person 172 194 265 301
-person 53 147 167 296
-person 377 140 395 248
+hair_drier 165 2 199 87

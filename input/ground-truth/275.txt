@@ -1,0 +1,7 @@
+potted_plant 279 0 415 297
+person 8 30 196 411
+person 243 34 273 150
+sports_ball 12 149 32 175
+bench 220 64 285 124
+person 279 25 307 107
+baseball_glove 172 193 191 226

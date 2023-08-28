@@ -1,9 +1,6 @@
-chair 294 264 415 410
-chair 16 349 40 416
-person 189 1 317 416
-person 41 129 190 411
-person 79 1 192 146
-person 154 111 217 308
-cake 272 110 350 198
-person 291 0 362 411
-dining table 343 179 416 348
+person 97 360 223 416
+fork 42 110 152 401
+pizza 0 0 412 384
+dining_table 0 0 416 416
+person 286 0 415 39
+knife 256 0 305 61

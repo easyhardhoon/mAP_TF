@@ -1,2 +1,3 @@
-person 135 89 303 311
-surfboard 123 276 299 315
+car 96 143 347 345
+motorbike 77 245 288 408
+aeroplane 195 0 416 182

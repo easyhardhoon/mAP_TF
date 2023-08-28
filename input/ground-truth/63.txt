@@ -1,2 +1,7 @@
-teddy bear 107 166 315 369
-potted plant 8 261 42 363
+umbrella 293 262 381 304
+parking_meter 0 171 72 411
+person 346 297 406 411
+dining_table 280 369 333 416
+dining_table 69 368 193 416
+dining_table 203 360 319 412
+parking_meter 93 330 106 369

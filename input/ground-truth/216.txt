@@ -1,0 +1,9 @@
+tie 117 82 151 242
+cell_phone 337 352 384 365
+person 143 64 401 364
+cake 101 242 198 285
+person 382 190 415 343
+person 0 164 71 372
+dining_table 2 349 416 415
+person 359 178 384 202
+person 26 0 191 366

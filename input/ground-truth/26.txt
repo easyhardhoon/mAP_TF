@@ -1,2 +1,9 @@
-cell phone 92 99 137 151
-person 4 0 413 410
+bottle 291 216 339 396
+bottle 341 217 386 407
+bottle 291 228 304 305
+tie 155 181 196 287
+person 46 45 302 337
+bowl 106 308 239 368
+remote 386 328 416 356
+cell_phone 6 325 35 343
+dining_table 2 310 416 409

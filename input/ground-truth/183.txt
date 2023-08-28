@@ -1,6 +1,5 @@
-chair 331 56 405 111
-chair 374 94 401 112
-person 146 132 351 398
-person 230 10 336 134
-tennis racket 64 97 151 162
-person 209 0 285 115
+tvmonitor 116 33 308 204
+cat 188 119 249 257
+teddy_bear 150 152 183 214
+teddy_bear 239 159 267 210
+teddy_bear 267 161 289 206

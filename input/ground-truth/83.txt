@@ -1,1 +1,6 @@
-teddy bear 80 22 390 251
+cup 111 2 179 115
+fork 32 290 173 409
+pizza 0 89 416 416
+pizza 0 3 119 103
+knife 380 152 416 168
+dining_table 2 0 416 186

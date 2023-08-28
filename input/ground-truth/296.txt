@@ -1,0 +1,6 @@
+tvmonitor 22 27 204 233
+tvmonitor 211 7 404 292
+cell_phone 128 269 154 307
+mouse 313 292 349 343
+keyboard 37 300 299 396
+cup 206 228 247 297

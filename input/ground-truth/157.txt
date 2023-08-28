@@ -1,5 +1,12 @@
-tvmonitor 140 129 243 257
-chair 288 188 385 324
-bed 283 333 416 416
-remote 137 252 154 266
-suitcase 0 279 23 410
+dining_table 341 286 416 378
+dining_table 87 367 416 410
+motorbike 16 107 82 306
+person 322 117 381 254
+person 280 139 312 245
+person 24 108 45 199
+person 120 103 162 150
+umbrella 36 1 314 150
+suitcase 81 133 285 402
+person 0 234 106 416
+person 383 133 415 253
+umbrella 344 0 416 135

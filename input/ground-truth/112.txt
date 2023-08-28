@@ -1,1 +1,3 @@
-stop sign 38 148 161 333
+fork 197 138 330 376
+cake 83 68 275 291
+dining_table 0 2 414 409

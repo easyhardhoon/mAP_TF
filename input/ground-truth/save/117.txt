@@ -1,3 +1,0 @@
-tvmonitormonitor 112 221 353 410
-cat 134 150 333 235
-cell_phone 19 234 36 292

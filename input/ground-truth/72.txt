@@ -1,2 +1,5 @@
-person 220 48 299 186
-skateboard 225 177 289 198
+person 321 65 332 116
+person 338 64 347 117
+person 197 88 273 244
+person 334 64 340 114
+motorbike 195 148 280 309

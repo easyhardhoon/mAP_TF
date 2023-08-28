@@ -1,3 +1,0 @@
-cat 14 89 412 393
-keyboard 0 255 263 409
-tvmonitormonitor 1 1 219 212

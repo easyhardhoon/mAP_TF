@@ -1,2 +1,6 @@
-sandwich 130 69 339 246
-dining table 0 2 416 410
+elephant 180 183 226 308
+elephant 135 186 182 310
+elephant 221 188 270 282
+elephant 301 156 338 260
+elephant 159 173 197 203
+umbrella 33 183 48 190

@@ -1,5 +1,2 @@
-bowl 0 0 416 415
-broccoli 185 135 301 212
-broccoli 192 189 321 284
-broccoli 118 190 225 267
-broccoli 80 188 100 207
+cup 73 0 157 78
+fork 319 65 403 328

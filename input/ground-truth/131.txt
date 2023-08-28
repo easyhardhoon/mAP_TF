@@ -1,2 +1,5 @@
-dog 0 144 112 328
-sports ball 94 219 140 283
+fork 35 0 329 270
+knife 0 44 338 200
+carrot 368 93 384 122
+dining_table 0 0 414 405
+sandwich 94 61 416 409

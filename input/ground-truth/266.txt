@@ -1,0 +1,9 @@
+refrigerator 171 85 221 245
+person 195 151 252 256
+person 54 109 173 411
+bowl 224 233 258 253
+bottle 185 207 187 220
+cup 160 225 172 248
+dining_table 151 234 279 285
+bottle 183 206 185 216
+refrigerator 218 77 275 233

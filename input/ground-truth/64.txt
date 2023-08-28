@@ -1,6 +1,9 @@
-cat 203 158 397 313
-sofa 116 165 415 415
-laptop 5 149 192 358
-person 1 4 416 411
-sofa 1 140 55 352
-refrigerator 62 1 133 213
+person 8 44 222 411
+person 34 3 99 163
+person 181 0 252 173
+person 246 0 301 115
+person 133 0 186 51
+person 135 58 317 416
+bench 0 144 416 416
+handbag 239 272 312 359
+handbag 37 1 64 65

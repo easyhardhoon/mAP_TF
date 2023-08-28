@@ -1,3 +1,2 @@
-sports ball 32 10 52 20
-person 105 116 299 402
-tennis racket 288 161 397 208
+zebra 80 23 327 411
+zebra 387 94 413 284

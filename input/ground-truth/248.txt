@@ -1,0 +1,7 @@
+sofa 19 93 373 411
+person 26 52 416 416
+remote 201 65 237 109
+potted_plant 0 206 40 416
+cell_phone 369 167 411 209
+remote 296 22 323 93
+sofa 322 30 415 257

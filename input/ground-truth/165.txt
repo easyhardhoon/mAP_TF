@@ -1,3 +1,10 @@
-bird 88 215 177 307
-chair 0 315 116 414
-chair 243 317 415 411
+car 167 320 221 343
+person 37 326 57 348
+person 0 314 24 351
+person 218 311 241 366
+traffic_light 153 249 162 264
+traffic_light 149 252 154 264
+umbrella 41 321 58 330
+umbrella 52 319 71 323
+traffic_light 233 234 249 244
+umbrella 7 319 37 325

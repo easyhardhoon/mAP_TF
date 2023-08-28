@@ -1,0 +1,8 @@
+bottle 356 75 399 272
+bottle 311 78 346 221
+dining_table 272 327 415 410
+pizza 0 265 143 319
+person 0 62 144 172
+knife 208 298 416 349
+pizza 0 309 150 354
+dining_table 6 161 179 248

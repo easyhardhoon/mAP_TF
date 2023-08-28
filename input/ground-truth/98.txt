@@ -1,1 +1,5 @@
-elephant 91 158 246 299
+sandwich 247 182 328 308
+cup 86 77 196 208
+hot_dog 247 182 327 309
+bowl 218 132 365 329
+dining_table 1 0 416 409

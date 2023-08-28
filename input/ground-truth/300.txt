@@ -1,0 +1,6 @@
+cell_phone 67 179 242 259
+cup 213 8 416 233
+scissors 87 243 416 363
+cell_phone 67 179 242 259
+cup 213 8 416 233
+scissors 87 243 416 363

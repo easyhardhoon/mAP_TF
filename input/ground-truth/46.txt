@@ -1,3 +1,5 @@
-car 96 143 347 345
-motorbike 77 245 288 408
-aeroplane 195 0 416 182
+cell_phone 16 38 383 216
+cell_phone 22 146 381 312
+cell_phone 49 225 373 363
+laptop 19 0 416 415
+remote 18 39 380 215

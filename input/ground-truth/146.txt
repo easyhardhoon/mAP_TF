@@ -1,3 +1,7 @@
-sports ball 206 92 224 104
-tennis racket 112 124 176 172
-person 95 129 258 374
+person 142 71 397 269
+person 146 275 173 311
+person 186 276 200 301
+skateboard 222 253 376 363
+person 122 278 150 309
+skateboard 126 292 142 305
+bench 163 289 194 303

@@ -1,7 +1,1 @@
-sandwich 0 95 307 384
-banana 37 182 154 293
-banana 193 128 282 235
-banana 29 99 208 232
-spoon 345 58 373 82
-cup 0 1 59 102
-knife 328 57 351 94
+aeroplane 43 169 305 334

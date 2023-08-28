@@ -1,6 +1,9 @@
-cell phone 312 241 339 312
-laptop 204 20 387 152
-mouse 314 154 378 222
-book 111 37 196 154
-book 91 306 132 379
-remote 6 316 50 406
+sports_ball 154 362 176 379
+chair 347 62 416 140
+person 185 92 350 416
+person 335 0 415 33
+person 227 0 308 20
+person 137 0 204 19
+tennis_racket 126 265 270 302
+person 112 0 145 16
+person 58 0 122 16

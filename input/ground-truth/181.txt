@@ -1,3 +1,2 @@
-cat 171 131 321 282
-chair 57 0 416 409
-laptop 0 1 42 92
+pizza 0 1 388 410
+dining_table 0 0 416 416

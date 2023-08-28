@@ -1,6 +1,3 @@
-sandwich 240 155 384 327
-wine glass 186 0 258 183
-bowl 0 32 141 183
-dining table 1 2 415 410
-cup 23 175 212 374
-bowl 24 176 213 371
+sports_ball 210 49 228 72
+person 79 40 282 410
+tennis_racket 42 111 93 237

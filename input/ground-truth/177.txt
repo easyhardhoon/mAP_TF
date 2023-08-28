@@ -1,8 +1,9 @@
-chair 300 243 374 345
-person 0 0 325 411
-laptop 175 341 414 416
-chair 381 256 415 327
-person 325 115 416 215
-person 351 190 416 284
-chair 293 215 338 247
-person 144 219 271 406
+fire_hydrant 122 16 296 398
+fire_hydrant 350 122 389 206
+fire_hydrant 356 221 396 296
+fire_hydrant 21 25 67 106
+fire_hydrant 352 320 397 387
+fire_hydrant 16 223 60 300
+fire_hydrant 343 26 399 116
+fire_hydrant 23 321 57 385
+fire_hydrant 7 120 65 206

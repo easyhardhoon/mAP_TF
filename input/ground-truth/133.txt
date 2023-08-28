@@ -1,9 +1,2 @@
-person 300 178 336 271
-tennis racket 332 170 348 181
-tennis racket 85 201 104 220
-tennis racket 81 216 113 239
-backpack 14 312 44 343
-bottle 42 314 50 345
-person 33 156 66 256
-person 55 148 84 309
-sports ball 380 146 387 152
+bed 12 80 413 411
+person 35 42 416 298

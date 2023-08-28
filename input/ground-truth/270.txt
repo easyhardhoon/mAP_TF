@@ -1,0 +1,5 @@
+bottle 256 210 269 240
+toothbrush 151 20 165 41
+sink 0 147 204 230
+hair_drier 135 31 163 56
+toothbrush 162 29 168 41

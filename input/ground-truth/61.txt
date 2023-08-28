@@ -1,1 +1,10 @@
-stop sign 85 169 180 342
+potted_plant 306 169 375 235
+microwave 50 96 133 172
+oven 18 238 188 401
+knife 1 218 30 237
+vase 339 217 360 238
+knife 6 241 33 254
+knife 7 222 36 241
+knife 13 228 37 244
+sink 381 234 416 243
+refrigerator 242 249 378 358

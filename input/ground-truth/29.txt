@@ -1,20 +1,6 @@
-sports ball 84 210 92 219
-baseball bat 99 187 123 193
-baseball glove 199 208 213 224
-baseball glove 127 185 134 193
-person 99 162 165 291
-person 198 183 247 264
-person 125 59 147 101
-person 205 57 227 85
-person 163 63 193 94
-person 146 56 167 94
-person 81 61 109 108
-person 58 65 83 109
-person 343 20 372 62
-person 250 50 272 76
-person 228 55 241 81
-person 188 46 207 89
-person 197 153 247 250
-chair 104 85 119 102
-cell phone 38 53 39 57
-person 291 42 332 70
+bottle 167 182 175 197
+bottle 194 182 200 197
+cup 108 182 130 208
+cup 71 185 94 212
+toilet 36 348 181 410
+sink 168 234 325 297

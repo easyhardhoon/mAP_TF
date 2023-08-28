@@ -1,10 +1,5 @@
-person 195 196 226 306
-person 145 352 176 415
-person 318 71 330 118
-person 151 207 201 229
-person 50 198 81 267
-person 207 169 241 226
-baseball bat 148 339 159 396
-baseball glove 192 250 201 267
-baseball glove 235 200 243 206
-baseball glove 325 96 330 103
+cup 38 29 149 133
+fork 68 275 264 379
+sandwich 170 126 314 255
+broccoli 256 172 286 192
+broccoli 250 146 271 169

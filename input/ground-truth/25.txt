@@ -1,6 +1,6 @@
-laptop 142 87 346 362
-mouse 355 303 391 348
-mouse 69 254 110 311
-keyboard 0 250 47 324
-tvmonitor 0 1 98 182
-cell phone 70 206 98 251
+person 0 170 309 412
+person 228 45 297 156
+kite 181 0 303 138
+kite 147 0 416 274
+person 120 381 140 415
+person 316 381 339 415
