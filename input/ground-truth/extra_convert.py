@@ -2,7 +2,7 @@ import os
 
 
 word_map = {
-    "tvmonitor": "tvmonitor",  #t v
+    "tvmonitormonitor": "tvmonitor",  #t v
 }
 
 
