@@ -1,0 +1,1 @@
+[{"class_name": "parking_meter", "bbox": "146 73 191 155", "used": false}, {"class_name": "person", "bbox": "118 156 374 258", "used": false}, {"class_name": "bench", "bbox": "37 152 390 329", "used": false}, {"class_name": "backpack", "bbox": "53 182 151 231", "used": false}, {"class_name": "car", "bbox": "0 170 13 223", "used": false}]

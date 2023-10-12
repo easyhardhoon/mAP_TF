@@ -1,0 +1,1 @@
+[{"class_name": "cell_phone", "bbox": "16 38 383 216", "used": false}, {"class_name": "cell_phone", "bbox": "22 146 381 312", "used": false}, {"class_name": "cell_phone", "bbox": "49 225 373 363", "used": false}, {"class_name": "laptop", "bbox": "19 0 416 415", "used": false}, {"class_name": "remote", "bbox": "18 39 380 215", "used": false}]

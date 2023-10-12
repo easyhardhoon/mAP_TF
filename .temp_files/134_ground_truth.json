@@ -1,0 +1,1 @@
+[{"class_name": "cup", "bbox": "179 0 237 51", "used": false}, {"class_name": "fork", "bbox": "270 1 367 109", "used": false}, {"class_name": "knife", "bbox": "307 15 341 100", "used": false}, {"class_name": "spoon", "bbox": "157 7 181 24", "used": false}, {"class_name": "pizza", "bbox": "0 0 69 22", "used": false}]

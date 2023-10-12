@@ -1,0 +1,1 @@
+[{"class_name": "pizza", "bbox": "0 156 390 362", "used": false}, {"class_name": "bowl", "bbox": "97 72 259 118", "used": false}, {"class_name": "chair", "bbox": "271 0 284 26", "used": false}, {"class_name": "dining_table", "bbox": "0 4 416 410", "used": false}, {"class_name": "cup", "bbox": "329 8 416 183", "used": false}]

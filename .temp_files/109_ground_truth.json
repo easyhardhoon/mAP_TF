@@ -1,0 +1,1 @@
+[{"class_name": "apple", "bbox": "326 257 381 326", "used": true}, {"class_name": "carrot", "bbox": "275 130 319 214", "used": false}, {"class_name": "carrot", "bbox": "261 119 288 205", "used": false}, {"class_name": "broccoli", "bbox": "194 92 263 145", "used": false}, {"class_name": "oven", "bbox": "0 94 75 361", "used": false}]

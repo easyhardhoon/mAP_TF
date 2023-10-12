@@ -1,0 +1,1 @@
+[{"class_name": "refrigerator", "bbox": "0 93 124 411", "used": false}, {"class_name": "bottle", "bbox": "399 98 413 165", "used": false}, {"class_name": "oven", "bbox": "213 158 319 275", "used": false}, {"class_name": "sink", "bbox": "321 250 416 311", "used": false}]
